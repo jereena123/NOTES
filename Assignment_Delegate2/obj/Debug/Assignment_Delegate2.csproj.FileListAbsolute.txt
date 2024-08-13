@@ -1,0 +1,7 @@
+E:\dotnet\Database_Ado\Assignment_Delegate2\bin\Debug\Assignment_Delegate2.exe.config
+E:\dotnet\Database_Ado\Assignment_Delegate2\bin\Debug\Assignment_Delegate2.exe
+E:\dotnet\Database_Ado\Assignment_Delegate2\bin\Debug\Assignment_Delegate2.pdb
+E:\dotnet\Database_Ado\Assignment_Delegate2\obj\Debug\Assignment_Delegate2.csproj.AssemblyReference.cache
+E:\dotnet\Database_Ado\Assignment_Delegate2\obj\Debug\Assignment_Delegate2.csproj.CoreCompileInputs.cache
+E:\dotnet\Database_Ado\Assignment_Delegate2\obj\Debug\Assignment_Delegate2.exe
+E:\dotnet\Database_Ado\Assignment_Delegate2\obj\Debug\Assignment_Delegate2.pdb
