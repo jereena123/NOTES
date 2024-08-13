@@ -1,0 +1,2 @@
+E:\dotnet\oops\Q4_inheritance\obj\Debug\Q4_inheritance.csproj.AssemblyReference.cache
+E:\dotnet\oops\Q4_inheritance\obj\Debug\Q4_inheritance.csproj.CoreCompileInputs.cache

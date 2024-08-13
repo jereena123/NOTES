@@ -1,0 +1,7 @@
+E:\dotnet\Database_Ado\Assignment_Filehandling2\bin\Debug\Assignment_Filehandling2.exe.config
+E:\dotnet\Database_Ado\Assignment_Filehandling2\bin\Debug\Assignment_Filehandling2.exe
+E:\dotnet\Database_Ado\Assignment_Filehandling2\bin\Debug\Assignment_Filehandling2.pdb
+E:\dotnet\Database_Ado\Assignment_Filehandling2\obj\Debug\Assignment_Filehandling2.csproj.AssemblyReference.cache
+E:\dotnet\Database_Ado\Assignment_Filehandling2\obj\Debug\Assignment_Filehandling2.csproj.CoreCompileInputs.cache
+E:\dotnet\Database_Ado\Assignment_Filehandling2\obj\Debug\Assignment_Filehandling2.exe
+E:\dotnet\Database_Ado\Assignment_Filehandling2\obj\Debug\Assignment_Filehandling2.pdb

@@ -1,0 +1,7 @@
+E:\dotnet\Database_Ado\ConsoleAppPhonebook\bin\Debug\ConsoleAppPhonebook.exe.config
+E:\dotnet\Database_Ado\ConsoleAppPhonebook\bin\Debug\ConsoleAppPhonebook.exe
+E:\dotnet\Database_Ado\ConsoleAppPhonebook\bin\Debug\ConsoleAppPhonebook.pdb
+E:\dotnet\Database_Ado\ConsoleAppPhonebook\obj\Debug\ConsoleAppPhonebook.csproj.AssemblyReference.cache
+E:\dotnet\Database_Ado\ConsoleAppPhonebook\obj\Debug\ConsoleAppPhonebook.csproj.CoreCompileInputs.cache
+E:\dotnet\Database_Ado\ConsoleAppPhonebook\obj\Debug\ConsoleAppPhonebook.exe
+E:\dotnet\Database_Ado\ConsoleAppPhonebook\obj\Debug\ConsoleAppPhonebook.pdb

@@ -1,0 +1,7 @@
+E:\dotnet\Database_Ado\Database_Ado\obj\Debug\Database_Ado.csproj.AssemblyReference.cache
+E:\dotnet\Database_Ado\Database_Ado\obj\Debug\Database_Ado.csproj.CoreCompileInputs.cache
+E:\dotnet\Database_Ado\Database_Ado\bin\Debug\Database_Ado.exe.config
+E:\dotnet\Database_Ado\Database_Ado\bin\Debug\Database_Ado.exe
+E:\dotnet\Database_Ado\Database_Ado\bin\Debug\Database_Ado.pdb
+E:\dotnet\Database_Ado\Database_Ado\obj\Debug\Database_Ado.exe
+E:\dotnet\Database_Ado\Database_Ado\obj\Debug\Database_Ado.pdb

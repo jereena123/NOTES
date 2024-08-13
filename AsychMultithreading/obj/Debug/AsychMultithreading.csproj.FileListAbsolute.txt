@@ -1,0 +1,7 @@
+E:\dotnet\Database_Ado\AsychMultithreading\obj\Debug\AsychMultithreading.csproj.AssemblyReference.cache
+E:\dotnet\Database_Ado\AsychMultithreading\obj\Debug\AsychMultithreading.csproj.CoreCompileInputs.cache
+E:\dotnet\Database_Ado\AsychMultithreading\bin\Debug\AsychMultithreading.exe.config
+E:\dotnet\Database_Ado\AsychMultithreading\bin\Debug\AsychMultithreading.exe
+E:\dotnet\Database_Ado\AsychMultithreading\bin\Debug\AsychMultithreading.pdb
+E:\dotnet\Database_Ado\AsychMultithreading\obj\Debug\AsychMultithreading.exe
+E:\dotnet\Database_Ado\AsychMultithreading\obj\Debug\AsychMultithreading.pdb
