@@ -1,0 +1,7 @@
+E:\dotnet\Database_Ado\Multiple_inheritance(sampletext)\bin\Debug\Multiple_inheritance(sampletext).exe.config
+E:\dotnet\Database_Ado\Multiple_inheritance(sampletext)\bin\Debug\Multiple_inheritance(sampletext).exe
+E:\dotnet\Database_Ado\Multiple_inheritance(sampletext)\bin\Debug\Multiple_inheritance(sampletext).pdb
+E:\dotnet\Database_Ado\Multiple_inheritance(sampletext)\obj\Debug\Multiple_inheritance(sampletext).csproj.AssemblyReference.cache
+E:\dotnet\Database_Ado\Multiple_inheritance(sampletext)\obj\Debug\Multiple_inheritance(sampletext).csproj.CoreCompileInputs.cache
+E:\dotnet\Database_Ado\Multiple_inheritance(sampletext)\obj\Debug\Multiple_inheritance(sampletext).exe
+E:\dotnet\Database_Ado\Multiple_inheritance(sampletext)\obj\Debug\Multiple_inheritance(sampletext).pdb

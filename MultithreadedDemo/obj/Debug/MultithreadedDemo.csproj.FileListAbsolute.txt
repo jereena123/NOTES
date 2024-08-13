@@ -1,0 +1,7 @@
+E:\dotnet\Database_Ado\MultithreadedDemo\bin\Debug\MultithreadedDemo.exe.config
+E:\dotnet\Database_Ado\MultithreadedDemo\bin\Debug\MultithreadedDemo.exe
+E:\dotnet\Database_Ado\MultithreadedDemo\bin\Debug\MultithreadedDemo.pdb
+E:\dotnet\Database_Ado\MultithreadedDemo\obj\Debug\MultithreadedDemo.csproj.AssemblyReference.cache
+E:\dotnet\Database_Ado\MultithreadedDemo\obj\Debug\MultithreadedDemo.csproj.CoreCompileInputs.cache
+E:\dotnet\Database_Ado\MultithreadedDemo\obj\Debug\MultithreadedDemo.exe
+E:\dotnet\Database_Ado\MultithreadedDemo\obj\Debug\MultithreadedDemo.pdb

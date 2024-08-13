@@ -1,0 +1,7 @@
+E:\dotnet\Database_Ado\Vowelsandwordcount\bin\Debug\Vowelsandwordcount.exe.config
+E:\dotnet\Database_Ado\Vowelsandwordcount\bin\Debug\Vowelsandwordcount.exe
+E:\dotnet\Database_Ado\Vowelsandwordcount\bin\Debug\Vowelsandwordcount.pdb
+E:\dotnet\Database_Ado\Vowelsandwordcount\obj\Debug\Vowelsandwordcount.csproj.AssemblyReference.cache
+E:\dotnet\Database_Ado\Vowelsandwordcount\obj\Debug\Vowelsandwordcount.csproj.CoreCompileInputs.cache
+E:\dotnet\Database_Ado\Vowelsandwordcount\obj\Debug\Vowelsandwordcount.exe
+E:\dotnet\Database_Ado\Vowelsandwordcount\obj\Debug\Vowelsandwordcount.pdb
