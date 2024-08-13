@@ -1,0 +1,7 @@
+E:\dotnet\oops\Cellphoneapp\obj\Debug\Cellphoneapp.csproj.AssemblyReference.cache
+E:\dotnet\oops\Cellphoneapp\obj\Debug\Cellphoneapp.csproj.CoreCompileInputs.cache
+E:\dotnet\oops\Cellphoneapp\bin\Debug\Cellphoneapp.exe.config
+E:\dotnet\oops\Cellphoneapp\bin\Debug\Cellphoneapp.exe
+E:\dotnet\oops\Cellphoneapp\bin\Debug\Cellphoneapp.pdb
+E:\dotnet\oops\Cellphoneapp\obj\Debug\Cellphoneapp.exe
+E:\dotnet\oops\Cellphoneapp\obj\Debug\Cellphoneapp.pdb

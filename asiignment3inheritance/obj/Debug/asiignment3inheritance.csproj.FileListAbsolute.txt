@@ -1,0 +1,7 @@
+E:\dotnet\oops\asiignment3inheritance\bin\Debug\asiignment3inheritance.exe.config
+E:\dotnet\oops\asiignment3inheritance\bin\Debug\asiignment3inheritance.exe
+E:\dotnet\oops\asiignment3inheritance\bin\Debug\asiignment3inheritance.pdb
+E:\dotnet\oops\asiignment3inheritance\obj\Debug\asiignment3inheritance.csproj.AssemblyReference.cache
+E:\dotnet\oops\asiignment3inheritance\obj\Debug\asiignment3inheritance.csproj.CoreCompileInputs.cache
+E:\dotnet\oops\asiignment3inheritance\obj\Debug\asiignment3inheritance.exe
+E:\dotnet\oops\asiignment3inheritance\obj\Debug\asiignment3inheritance.pdb

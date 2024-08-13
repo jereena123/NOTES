@@ -1,0 +1,7 @@
+E:\dotnet\oops\Abstraction\obj\Debug\Abstraction.csproj.AssemblyReference.cache
+E:\dotnet\oops\Abstraction\obj\Debug\Abstraction.csproj.CoreCompileInputs.cache
+E:\dotnet\oops\Abstraction\bin\Debug\Abstraction.exe.config
+E:\dotnet\oops\Abstraction\bin\Debug\Abstraction.exe
+E:\dotnet\oops\Abstraction\bin\Debug\Abstraction.pdb
+E:\dotnet\oops\Abstraction\obj\Debug\Abstraction.exe
+E:\dotnet\oops\Abstraction\obj\Debug\Abstraction.pdb

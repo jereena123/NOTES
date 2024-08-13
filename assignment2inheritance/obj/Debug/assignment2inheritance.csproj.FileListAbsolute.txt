@@ -1,0 +1,7 @@
+E:\dotnet\oops\assignment2inheritance\bin\Debug\assignment2inheritance.exe.config
+E:\dotnet\oops\assignment2inheritance\bin\Debug\assignment2inheritance.exe
+E:\dotnet\oops\assignment2inheritance\bin\Debug\assignment2inheritance.pdb
+E:\dotnet\oops\assignment2inheritance\obj\Debug\assignment2inheritance.csproj.AssemblyReference.cache
+E:\dotnet\oops\assignment2inheritance\obj\Debug\assignment2inheritance.csproj.CoreCompileInputs.cache
+E:\dotnet\oops\assignment2inheritance\obj\Debug\assignment2inheritance.exe
+E:\dotnet\oops\assignment2inheritance\obj\Debug\assignment2inheritance.pdb

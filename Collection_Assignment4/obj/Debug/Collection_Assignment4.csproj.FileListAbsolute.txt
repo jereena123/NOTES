@@ -1,0 +1,7 @@
+E:\dotnet\oops\Collection_Assignment4\bin\Debug\Collection_Assignment4.exe.config
+E:\dotnet\oops\Collection_Assignment4\bin\Debug\Collection_Assignment4.exe
+E:\dotnet\oops\Collection_Assignment4\bin\Debug\Collection_Assignment4.pdb
+E:\dotnet\oops\Collection_Assignment4\obj\Debug\Collection_Assignment4.csproj.AssemblyReference.cache
+E:\dotnet\oops\Collection_Assignment4\obj\Debug\Collection_Assignment4.csproj.CoreCompileInputs.cache
+E:\dotnet\oops\Collection_Assignment4\obj\Debug\Collection_Assignment4.exe
+E:\dotnet\oops\Collection_Assignment4\obj\Debug\Collection_Assignment4.pdb
