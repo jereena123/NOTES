@@ -1,0 +1,7 @@
+E:\dotnet\Database_Ado\EventHandling\bin\Debug\EventHandling.exe.config
+E:\dotnet\Database_Ado\EventHandling\bin\Debug\EventHandling.exe
+E:\dotnet\Database_Ado\EventHandling\bin\Debug\EventHandling.pdb
+E:\dotnet\Database_Ado\EventHandling\obj\Debug\EventHandling.csproj.AssemblyReference.cache
+E:\dotnet\Database_Ado\EventHandling\obj\Debug\EventHandling.csproj.CoreCompileInputs.cache
+E:\dotnet\Database_Ado\EventHandling\obj\Debug\EventHandling.exe
+E:\dotnet\Database_Ado\EventHandling\obj\Debug\EventHandling.pdb
