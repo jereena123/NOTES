@@ -1,0 +1,7 @@
+E:\dotnet\oops\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.AssemblyReference.cache
+E:\dotnet\oops\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.CoreCompileInputs.cache
+E:\dotnet\oops\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe.config
+E:\dotnet\oops\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe
+E:\dotnet\oops\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.pdb
+E:\dotnet\oops\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.exe
+E:\dotnet\oops\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.pdb

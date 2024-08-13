@@ -1,0 +1,7 @@
+E:\dotnet\oops\Exception_Assignment\bin\Debug\Exception_Assignment.exe.config
+E:\dotnet\oops\Exception_Assignment\bin\Debug\Exception_Assignment.exe
+E:\dotnet\oops\Exception_Assignment\bin\Debug\Exception_Assignment.pdb
+E:\dotnet\oops\Exception_Assignment\obj\Debug\Exception_Assignment.csproj.AssemblyReference.cache
+E:\dotnet\oops\Exception_Assignment\obj\Debug\Exception_Assignment.csproj.CoreCompileInputs.cache
+E:\dotnet\oops\Exception_Assignment\obj\Debug\Exception_Assignment.exe
+E:\dotnet\oops\Exception_Assignment\obj\Debug\Exception_Assignment.pdb

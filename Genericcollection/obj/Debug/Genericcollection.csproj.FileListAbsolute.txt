@@ -1,0 +1,7 @@
+E:\dotnet\oops\Genericcollection\bin\Debug\Genericcollection.exe.config
+E:\dotnet\oops\Genericcollection\bin\Debug\Genericcollection.exe
+E:\dotnet\oops\Genericcollection\bin\Debug\Genericcollection.pdb
+E:\dotnet\oops\Genericcollection\obj\Debug\Genericcollection.csproj.AssemblyReference.cache
+E:\dotnet\oops\Genericcollection\obj\Debug\Genericcollection.csproj.CoreCompileInputs.cache
+E:\dotnet\oops\Genericcollection\obj\Debug\Genericcollection.exe
+E:\dotnet\oops\Genericcollection\obj\Debug\Genericcollection.pdb

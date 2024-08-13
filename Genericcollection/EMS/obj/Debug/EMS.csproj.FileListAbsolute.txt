@@ -1,0 +1,7 @@
+E:\dotnet\oops\EMS\obj\Debug\EMS.csproj.AssemblyReference.cache
+E:\dotnet\oops\EMS\obj\Debug\EMS.csproj.CoreCompileInputs.cache
+E:\dotnet\oops\EMS\bin\Debug\EMS.exe.config
+E:\dotnet\oops\EMS\bin\Debug\EMS.exe
+E:\dotnet\oops\EMS\bin\Debug\EMS.pdb
+E:\dotnet\oops\EMS\obj\Debug\EMS.exe
+E:\dotnet\oops\EMS\obj\Debug\EMS.pdb
