@@ -1,0 +1,14 @@
+E:\dotnet\ConsoleAppone-solution\ConsoleAppone\obj\Debug\net8.0\ConsoleAppone.GeneratedMSBuildEditorConfig.editorconfig
+E:\dotnet\ConsoleAppone-solution\ConsoleAppone\obj\Debug\net8.0\ConsoleAppone.AssemblyInfoInputs.cache
+E:\dotnet\ConsoleAppone-solution\ConsoleAppone\obj\Debug\net8.0\ConsoleAppone.AssemblyInfo.cs
+E:\dotnet\ConsoleAppone-solution\ConsoleAppone\obj\Debug\net8.0\ConsoleAppone.csproj.CoreCompileInputs.cache
+E:\dotnet\ConsoleAppone-solution\ConsoleAppone\bin\Debug\net8.0\ConsoleAppone.exe
+E:\dotnet\ConsoleAppone-solution\ConsoleAppone\bin\Debug\net8.0\ConsoleAppone.deps.json
+E:\dotnet\ConsoleAppone-solution\ConsoleAppone\bin\Debug\net8.0\ConsoleAppone.runtimeconfig.json
+E:\dotnet\ConsoleAppone-solution\ConsoleAppone\bin\Debug\net8.0\ConsoleAppone.dll
+E:\dotnet\ConsoleAppone-solution\ConsoleAppone\bin\Debug\net8.0\ConsoleAppone.pdb
+E:\dotnet\ConsoleAppone-solution\ConsoleAppone\obj\Debug\net8.0\ConsoleAppone.dll
+E:\dotnet\ConsoleAppone-solution\ConsoleAppone\obj\Debug\net8.0\refint\ConsoleAppone.dll
+E:\dotnet\ConsoleAppone-solution\ConsoleAppone\obj\Debug\net8.0\ConsoleAppone.pdb
+E:\dotnet\ConsoleAppone-solution\ConsoleAppone\obj\Debug\net8.0\ConsoleAppone.genruntimeconfig.cache
+E:\dotnet\ConsoleAppone-solution\ConsoleAppone\obj\Debug\net8.0\ref\ConsoleAppone.dll
