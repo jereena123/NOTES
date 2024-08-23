@@ -1,0 +1,10 @@
+E:\dotnet\DATABASE_DATABASE\ClinicalManagementSystem\bin\Debug\ClinicalManagementSystem.exe.config
+E:\dotnet\DATABASE_DATABASE\ClinicalManagementSystem\bin\Debug\ClinicalManagementSystem.exe
+E:\dotnet\DATABASE_DATABASE\ClinicalManagementSystem\bin\Debug\ClinicalManagementSystem.pdb
+E:\dotnet\DATABASE_DATABASE\ClinicalManagementSystem\bin\Debug\SQLSERVERCONNECTIONLIBRARY.dll
+E:\dotnet\DATABASE_DATABASE\ClinicalManagementSystem\bin\Debug\SQLSERVERCONNECTIONLIBRARY.pdb
+E:\dotnet\DATABASE_DATABASE\ClinicalManagementSystem\obj\Debug\ClinicalManagementSystem.csproj.AssemblyReference.cache
+E:\dotnet\DATABASE_DATABASE\ClinicalManagementSystem\obj\Debug\ClinicalManagementSystem.csproj.CoreCompileInputs.cache
+E:\dotnet\DATABASE_DATABASE\ClinicalManagementSystem\obj\Debug\Clinical.8C4CFA37.Up2Date
+E:\dotnet\DATABASE_DATABASE\ClinicalManagementSystem\obj\Debug\ClinicalManagementSystem.exe
+E:\dotnet\DATABASE_DATABASE\ClinicalManagementSystem\obj\Debug\ClinicalManagementSystem.pdb
