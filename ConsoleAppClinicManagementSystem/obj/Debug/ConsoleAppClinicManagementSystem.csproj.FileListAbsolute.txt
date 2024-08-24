@@ -1,0 +1,10 @@
+C:\Users\judes\source\repos\ConsoleAppEmployeeAppCRUD\ConsoleAppClinicManagementSystem\obj\Debug\ConsoleAppClinicManagementSystem.csproj.AssemblyReference.cache
+C:\Users\judes\source\repos\ConsoleAppEmployeeAppCRUD\ConsoleAppClinicManagementSystem\obj\Debug\ConsoleAppClinicManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\judes\source\repos\ConsoleAppEmployeeAppCRUD\ConsoleAppClinicManagementSystem\bin\Debug\ConsoleAppClinicManagementSystem.exe.config
+C:\Users\judes\source\repos\ConsoleAppEmployeeAppCRUD\ConsoleAppClinicManagementSystem\bin\Debug\ConsoleAppClinicManagementSystem.exe
+C:\Users\judes\source\repos\ConsoleAppEmployeeAppCRUD\ConsoleAppClinicManagementSystem\bin\Debug\ConsoleAppClinicManagementSystem.pdb
+C:\Users\judes\source\repos\ConsoleAppEmployeeAppCRUD\ConsoleAppClinicManagementSystem\bin\Debug\SqlServerConnectionLibraryDatabase.dll
+C:\Users\judes\source\repos\ConsoleAppEmployeeAppCRUD\ConsoleAppClinicManagementSystem\bin\Debug\SqlServerConnectionLibraryDatabase.pdb
+C:\Users\judes\source\repos\ConsoleAppEmployeeAppCRUD\ConsoleAppClinicManagementSystem\obj\Debug\ConsoleA.B47A9FC3.Up2Date
+C:\Users\judes\source\repos\ConsoleAppEmployeeAppCRUD\ConsoleAppClinicManagementSystem\obj\Debug\ConsoleAppClinicManagementSystem.exe
+C:\Users\judes\source\repos\ConsoleAppEmployeeAppCRUD\ConsoleAppClinicManagementSystem\obj\Debug\ConsoleAppClinicManagementSystem.pdb
