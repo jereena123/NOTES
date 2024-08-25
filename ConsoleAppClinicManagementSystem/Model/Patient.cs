@@ -13,24 +13,25 @@ namespace ConsoleAppClinicManagementSystem.Model
         public DateTime DOB { get; set; }
         public string Gender { get; set; }
         public string PhoneNumber { get; set; }
-        public string Email { get; set; }
-        public string BloodGroup { get; set; }
+        
+        public string Bloodgroup { get; set; }
         public string Address { get; set; }
 
         public Patient()
         {
 
         }
-        public Patient(int patientId, string patientName, DateTime dOB, string gender, string phoneNumber, string email, string bloodGroup, string address)
+        public Patient(int patientId, string patientName, DateTime dOB, string gender, string phoneNumber, string bloodGroup, string address)
         {
             PatientId = patientId;
             PatientName = patientName;
             DOB = dOB;
             Gender = gender;
             PhoneNumber = phoneNumber;
-            Email = email;
-            BloodGroup = bloodGroup;
+            
+            Bloodgroup = bloodGroup;
             Address = address;
         }
     }
 }
+    

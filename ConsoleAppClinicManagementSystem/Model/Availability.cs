@@ -21,3 +21,5 @@ namespace ConsoleAppClinicManagementSystem.Model
         }
     }
 }
+    
+

@@ -17,6 +17,7 @@ namespace ConsoleAppClinicManagementSystem.Model
             DepartmentId = departmentId;
             DepartmentName = departmentName;
         }
-        
+
     }
 }
+    

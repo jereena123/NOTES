@@ -19,5 +19,6 @@ namespace ConsoleAppClinicManagementSystem.Model
             RoleName = roleName;
             IsActived = isActived;
         }
+ 
     }
 }

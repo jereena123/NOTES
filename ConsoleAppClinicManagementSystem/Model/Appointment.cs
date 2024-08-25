@@ -25,5 +25,6 @@ namespace ConsoleAppClinicManagementSystem.Model
             TokenId = tokenId;
         }
     }
-    
+
 }
+    
