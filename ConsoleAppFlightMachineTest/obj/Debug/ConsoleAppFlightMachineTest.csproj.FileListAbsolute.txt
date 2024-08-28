@@ -1,0 +1,10 @@
+C:\Users\judes\source\repos\ConsoleAppEmployeeAppCRUD\ConsoleAppFlightMachineTest\bin\Debug\ConsoleAppFlightMachineTest.exe.config
+C:\Users\judes\source\repos\ConsoleAppEmployeeAppCRUD\ConsoleAppFlightMachineTest\bin\Debug\ConsoleAppFlightMachineTest.exe
+C:\Users\judes\source\repos\ConsoleAppEmployeeAppCRUD\ConsoleAppFlightMachineTest\bin\Debug\ConsoleAppFlightMachineTest.pdb
+C:\Users\judes\source\repos\ConsoleAppEmployeeAppCRUD\ConsoleAppFlightMachineTest\obj\Debug\ConsoleAppFlightMachineTest.csproj.AssemblyReference.cache
+C:\Users\judes\source\repos\ConsoleAppEmployeeAppCRUD\ConsoleAppFlightMachineTest\obj\Debug\ConsoleAppFlightMachineTest.csproj.CoreCompileInputs.cache
+C:\Users\judes\source\repos\ConsoleAppEmployeeAppCRUD\ConsoleAppFlightMachineTest\obj\Debug\ConsoleAppFlightMachineTest.exe
+C:\Users\judes\source\repos\ConsoleAppEmployeeAppCRUD\ConsoleAppFlightMachineTest\obj\Debug\ConsoleAppFlightMachineTest.pdb
+C:\Users\judes\source\repos\ConsoleAppEmployeeAppCRUD\ConsoleAppFlightMachineTest\bin\Debug\SqlServerConnectionLibraryDatabase.dll
+C:\Users\judes\source\repos\ConsoleAppEmployeeAppCRUD\ConsoleAppFlightMachineTest\bin\Debug\SqlServerConnectionLibraryDatabase.pdb
+C:\Users\judes\source\repos\ConsoleAppEmployeeAppCRUD\ConsoleAppFlightMachineTest\obj\Debug\ConsoleA.45FCBC3E.Up2Date
